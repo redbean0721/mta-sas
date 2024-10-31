@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: mx1.redbdan0721.com
+max_age: 86400
